@@ -20,7 +20,7 @@ export default function Header() {
                         </div>
                     </div>
                     <div className="hidden sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
-                        <a className="inline-flex justify-center rounded-xl bg-blue-700 p-4 text-lg font-bold text-white hover:bg-blue-500 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500 active:text-white/70" href="#">Get your tickets</a>
+                        <a className="inline-flex justify-center rounded-3xl bg-blue-700 p-4 text-lg font-bold text-white hover:bg-blue-500 focus:outline-none focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-500 active:text-white/70 border-2 border-cyan-500" href="#">Get your tickets</a>
                     </div>
                 </div>
             </header>
