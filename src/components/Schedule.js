@@ -1,5 +1,5 @@
 import React from 'react';
-import bg from "./images/background.6c3571e0.jpg";
+import bg from "../images/background.6c3571e0.jpg";
 
 export default function Schedule() {
   return (

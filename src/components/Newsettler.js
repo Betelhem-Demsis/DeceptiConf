@@ -1,5 +1,5 @@
 import React from 'react'
-import bgg from "./images/background-newsletter.488a0204.jpg"
+import bgg from "../images/background-newsletter.488a0204.jpg"
 export default function Newsettler() {
   return (
         <section id="newsletter" aria-label="Newsletter">

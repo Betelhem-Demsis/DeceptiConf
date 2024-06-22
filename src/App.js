@@ -1,11 +1,11 @@
-import './App.css';
-import Header from './Header';
-import Hero from './Hero';
-import Speaker from './Speaker';
-import Schedule from './Schedule';
-import Sponsor from './Sponsor';
-import Newsettler from './Newsettler';
-import Footer from './Footer';
+import './css/App.css';
+import Header from './components/Header';
+import Hero from './components/Hero';
+import Speaker from './components/Speaker';
+import Schedule from './components/Schedule';
+import Sponsor from './components/Sponsor';
+import Newsettler from './components/Newsettler';
+import Footer from './components/Footer';
 function App() {
   return (
     <div className="App">

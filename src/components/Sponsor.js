@@ -1,10 +1,10 @@
 import React from 'react'
-import transistor from "./images/transistor.a1e38d49.svg";
-import mirage from "./images/mirage.e12f40ad.svg";
-import statamic from "./images/statamic.923101b6.svg";
-import statickit from "./images/statickit.2e06fcea.svg";
-import tuple from "./images/tuple.2f54ed03.svg";
-import laravel from "./images/laravel.6faebf7c.svg"
+import transistor from "../images/transistor.a1e38d49.svg";
+import mirage from "../images/mirage.e12f40ad.svg";
+import statamic from "../images/statamic.923101b6.svg";
+import statickit from "../images/statickit.2e06fcea.svg";
+import tuple from "../images/tuple.2f54ed03.svg";
+import laravel from "../images/laravel.6faebf7c.svg"
 export default function Sponsor() {
   return (
     <div>
