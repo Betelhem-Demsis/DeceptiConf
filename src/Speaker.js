@@ -1,17 +1,5 @@
 import React from "react";
 
-import cathlene from "./images/cathlene-burrage.jpg";
-import waylon from "./images/waylon-hyden.jpg";
-import damaris from "./images/damaris-kimura.jpg";
-import rich from "./images/richard-astley.jpg";
-import ibr from "./images/ibrahim-frasch.jpg";
-import gior from "./images/giordano-sagucio.jpg";
-import andrew from "./images/andrew-greene.jpg";
-import terry from "./images/heather-terry.jpg";
-import pie from "./images/piers-wilkins.jpg";
-import gordon from "./images/gordon-sanderson.jpg";
-import kimberly from "./images/kimberly-parsons.jpg";
-
 export default function Speaker() {
   return (
     <div>
@@ -315,7 +303,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={damaris}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="damaris"
                       />
                     </div>
@@ -339,7 +327,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={ibr}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="ibrahim"
                       />
                     </div>
@@ -363,7 +351,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={cathlene}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="cathlene"
                       />
                     </div>
@@ -387,7 +375,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={cathlene}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="rinaldo"
                       />
                     </div>
@@ -411,7 +399,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={waylon}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="waylon"
                       />
                     </div>
@@ -435,7 +423,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={gior}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="giordano"
                       />
                     </div>
@@ -461,7 +449,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={andrew}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="andrew"
                       />
                     </div>
@@ -485,7 +473,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={terry}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="heather"
                       />
                     </div>
@@ -509,7 +497,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={pie}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="piers"
                       />
                     </div>
@@ -533,7 +521,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={gordon}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="gordon"
                       />
                     </div>
@@ -557,7 +545,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={kimberly}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="kimberly"
                       />
                     </div>
@@ -581,7 +569,7 @@ export default function Speaker() {
                     >
                       <img
                         className="absolute inset-0 h-full w-full object-cover transition duration-300 group-hover:scale-110"
-                        src={rich}
+                        src="https://keynote.tailwindui.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fparker-johnson.3f6d7276.jpg&w=1200&q=75"
                         alt="richrd"
                       />
                     </div>
